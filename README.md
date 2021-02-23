@@ -10,4 +10,4 @@ Twilio (for sending SMS messages): https://www.twilio.com/
 
 To get the script working, an OpenWeather API key, Twilio account sid and Twilio auth token must be provided as environment variables (sign-up is free using the links provided above).
 
-The user should also enter the latitude/ longitude of the location they wish to check the weather at, and the mobile number they wish to receive an SMS warning to when rain is likely.
+The user should also enter the latitude and longitude of the location they wish to check the weather at, as well as the mobile number they wish to receive an SMS warning to when rain is likely.
