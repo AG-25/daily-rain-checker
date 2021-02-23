@@ -4,6 +4,7 @@ The script was designed to be run automatically at the same time every day, e.g.
 
 https://www.pythonanywhere.com/
 
+
 Two APIs are used in the script:
 
 OpenWeatherAPI (to access weather forecast data): https://openweathermap.org/
