@@ -1,10 +1,11 @@
 # Rain Checker ☔☔☔☔
 This program checks the weather forecast for a specified location and sends an SMS warning if rain is likely to occur that day.
 
+## Usage
 The script was designed to be run automatically at the same time every 24 hours, e.g. in the morning so that the user receives an SMS if they should take an umbrella to work. One way this can be done is by uploading the script to a cloud hosting platform, such as python anywhere:  
 https://www.pythonanywhere.com/
 
-## Using the Program
+## Installation
 Download main.py and install the modules listed in requirements.txt using pip (twilio and requests).  
 The following environment variables should then be populated before running the program:  
 1.) OPEN_WEATHER_API_KEY, TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN, TWILIO_ACCOUNT_PHONE_NUMBER - Values for these variables can be retrieved by signing up for the free open weather and Twilio APIs (URLs provided below).  
