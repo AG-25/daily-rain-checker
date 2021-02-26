@@ -16,8 +16,8 @@ The following environment variables should then be populated before running the 
 
 
 ## Supporting Libraries and APIs
-OpenWeatherAPI (to access weather forecast data): https://openweathermap.org/  
-Twilio (for sending SMS messages): https://www.twilio.com/  
+* OpenWeatherAPI (to access weather forecast data): https://openweathermap.org/  
+* Twilio (for sending SMS messages): https://www.twilio.com/  
 
 ## Future Development  
 I do not have any plans to develop this application in the future.
