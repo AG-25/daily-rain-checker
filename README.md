@@ -1,7 +1,7 @@
 # Rain Checker ☔☔☔☔
-This program checks the weather forecast for a specified location and sends an SMS warning if rain is likely to occur on the day.
+This program checks the weather forecast for a specified location and sends an SMS warning if rain is likely to occur that day.
 
-The script was designed to be run automatically at the same time every day, e.g. in the morning so that the user receives an SMS if they should take an umbrella to work. One way this can be done is by uploading the script to a cloud hosting platform, such as python anywhere:  
+The script was designed to be run automatically at the same time every 24 hours, e.g. in the morning so that the user receives an SMS if they should take an umbrella to work. One way this can be done is by uploading the script to a cloud hosting platform, such as python anywhere:  
 https://www.pythonanywhere.com/
 
 ## Using the Program
